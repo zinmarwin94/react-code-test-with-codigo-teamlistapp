@@ -1,0 +1,1 @@
+export { setSpaceList } from "./home";
